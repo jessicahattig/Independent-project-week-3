@@ -32,11 +32,11 @@ Use triple backticks at the beginning and end of your tests to have them formatt
 
 Describe: firstFunction()
 
-  Test: "It should describe the first piece of logic for a function."
+  Test: "Adding number to form should output number."
   Code:
-  const example = "string";
-  firstFunction(example);
-  Expected Output: ["Expected outcome for first piece of logic"]
+  const userInput = Number;
+  userInput= ;
+  Expected Output: ["number"]
 
   Test: "It should describe the second piece of logic for a function."
   Code:
