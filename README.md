@@ -1,8 +1,8 @@
-# _Portfolio Project_
+# _Independent Project Week 3: Mr. Roboger's Neighborhood_
 
 #### By _**Jessica Hattig**_
 
-#### _Epicodus, Week 1: Git, HTML, and CSS_
+#### _Epicodus, Week 3: Arrays and Looping_
 
 ## Technologies Used
 
