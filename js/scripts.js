@@ -8,8 +8,8 @@ function changeNumber() {
 //second test, input '1' and output bleep.
 function changeNumber() {
     let inputNumber = [];
-    for (let inputNumber i =0; i <=100; i++) {
-        if (changenNumber=1 ) {
+    for (let inputNumber i=0;) {
+        if (inputNumber[1] {
             inputNumber
         }
 
