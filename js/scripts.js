@@ -1,4 +1,6 @@
 //Buisness Logic Testing
-function sayBleep() {
+
+//first test, input any number and output bleep
+function inputNumber() {
     return 'bleep';
 }

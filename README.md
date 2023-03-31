@@ -32,7 +32,7 @@ Use triple backticks at the beginning and end of your tests to have them formatt
 
 Describe: firstFunction()
 
-  Test: "Adding number to form should output number."
+  Test: "Adding number to form should output bleep."
   Code:
   const userInput = Number;
   userInput= ;
