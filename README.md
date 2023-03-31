@@ -34,9 +34,9 @@ Describe: firstFunction()
 
   Test: "Adding number to form should output bleep."
   Code:
-  const userInput = Number;
-  userInput= ;
-  Expected Output: ["number"]
+  let numberInput = "";
+  const word="bleep";
+  Expected Output: bleep.
 
   Test: "It should describe the second piece of logic for a function."
   Code:

@@ -6,8 +6,10 @@ function inputNumber() {
 }
 
 //second test, input '1' and output bleep
-function inputNumber() {
-    let inputNumber = [Number];
-    const addBleep = ['bleep'];
-    
+function inputNumber(num) {
+    let inputNumber = num;
+    const bleepArray = toWords(bleep);
+    bleepArray.forEach(function(bleep) {inputNumber++;
+    });
+    return newNumber;
 }
