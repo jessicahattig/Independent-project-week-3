@@ -7,7 +7,6 @@ function inputNumber() {
 
 //second test, input '1' and output bleep
 function inputNumber() {
-    const inputNumber = 1;
-    const inputNumberChange = inputNumber.toString()
-    return bleep;
+    let inputNumber = 1;
+    let newNumber = inputNumber.toString("Bleep");
 }
