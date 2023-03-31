@@ -7,8 +7,15 @@ function changeNumber() {
 
 //second test, input '1' and output bleep.
 function changeNumber() {
-    let inputNumber = num;
-    for (let i =0; i <=100; i++)
+    let inputNumber = [];
+    for (let inputNumber i =0; i <=100; i++) {
+        if (changenNumber=1 ) {
+            inputNumber
+        }
+
+
+
+    }
     const bleepArray = toWords(bleep);
     changeNumber.forEach(function(element) {inputNumber.toString(bleep)
     });
