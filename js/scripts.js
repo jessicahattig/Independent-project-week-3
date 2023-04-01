@@ -7,13 +7,12 @@ function changeNumber() {
 
 //second test, input '1' and output bleep.
 function changeNumber() {
-    let inputNumber = [];
-    for (let inputNumber i=0;) {
-        if (inputNumber[1] {
-            inputNumber
-        }
-
-
+    let addBleep;
+        if (num===0) {
+        addBleep = function (bleep) {
+        bleep.make
+    }
+}
 
     }
     const bleepArray = toWords(bleep);
