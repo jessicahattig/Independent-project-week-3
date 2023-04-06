@@ -30,19 +30,32 @@ _This portfolio exhibits my proficiency in JavaScript arrays and looping._
 Tests
 Use triple backticks at the beginning and end of your tests to have them formatted as code on your README.
 
-Describe: firstFunction()
+Describe: bleep()
+Test: "Adding any number to form should output bleep."
+Code:
+let numberInput = "";
+const word="bleep";
+bleep(numberInput, word)
+Expected Output: bleep.
 
-  Test: "Adding number to form should output bleep."
-  Code:
-  let numberInput = "";
-  const word="bleep";
-  Expected Output: bleep.
+Describe: array()
+Test: "It should return an array of numbers from 0 to the user's inputted number"
+Code: array(5);
+Expected Output: [0, 1, 2, 3, 4, 5]
 
-  Test: "It should describe the second piece of logic for a function."
-  Code:
-  const example2 = ["data"];
-  firstFunction(example2);
-  Expected Output: "Expected outcome for second piece of logic"
+Test: "It should replace any number containing 1 with bleep."
+Code: array(1)
+Expected Output: [0, bleep]
+
+Test: "It should replace any number containing 2 with boop."
+Code: array(3)
+Expected Output: [0, bleep, boop, 3]
+
+Test: "It should replace any number containing 3 with 'won't you be my neighbor?'"
+Code: array(3)
+Expected Output: [0, bleep, boop, won't you be my neighbor?]
+
+
 
 ## Known Bugs
 
