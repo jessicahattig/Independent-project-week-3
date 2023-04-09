@@ -15,7 +15,7 @@
 
 ## Description
 
-_This portfolio exhibits my proficiency in JavaScript arrays and looping._
+_This project exhibits my proficiency in JavaScript arrays and looping._
 
 ## Setup/Installation Requirements
 
