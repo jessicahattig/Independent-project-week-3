@@ -2,18 +2,15 @@
 <html lang="en">
 <head>
     <link rel="stylesheet" href="css/styles.css" type="text/css"> 
-    
-    
-    <h1>Mr. Roboger's Neighborhood</h1>
-    <form name="myForm" action="" method="GET">
-        Enter number: <br>
-        <input type="number" name="inputbox" value="">
-        <input type="button" name="button" value="Click" onClick="testResults(this.form)">
-        
-        <h2 id="sentence"></h2>
-    </form>
+    <script src="js/scripts.js"></script>
 </head>
 <body>
-    
+    <h1>Mr. Roboger's Neighborhood</h1>
+    <form id="form">
+        Enter number: <br>
+        <input id="input" type="number" name="numberInput" value="">
+        <button type="submit">submit</button>
+    </form>
+    <h2 id="sentence"></h2>
 </body>
 </html>
