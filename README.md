@@ -15,7 +15,7 @@
 
 ## Description
 
-_This project exhibits my proficiency in JavaScript arrays and looping._
+_This project exhibits my proficiency in JavaScript arrays and looping. When inputting a neighbor, the form will show an array replacing specific numbers with strings._
 
 ## Setup/Installation Requirements
 
@@ -54,8 +54,6 @@ Expected Output: [0, bleep, boop, 3]
 Test: "It should replace any number containing 3 with 'won't you be my neighbor?'"
 Code: array(3)
 Expected Output: [0, bleep, boop, won't you be my neighbor?]
-
-
 
 ## Known Bugs
 
