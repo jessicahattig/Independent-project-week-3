@@ -8,14 +8,15 @@ function bleep(number){
 function array(number){
     let testArray = []
     for (let i=0; i <= number; i++){
-        if (i.toString().includes("2")){
-            testArray.push("boop")
+        if (i.toString().includes("3")) {
+            testArray.push(" won't you be my neighbor? ")
+        } else if (i.toString().includes("2")){
+            testArray.push(" boop ")
         } else if (i.toString().includes("1")){
-        testArray.push("beep")
-        
-       } else { 
+        testArray.push(" bleep ")
+    } else { 
         testArray.push(i)
-       }
+    }
     } 
     return testArray // return results
 } 
@@ -30,7 +31,7 @@ function handleFormSubmission(event){
     event.preventDefault()
     const usersInput = document.getElementById("input").value
     const outPut = array(usersInput)
-    document.getElementById("sentence").innerText = outPut
+    document.getElementById("result").innerText = outPut
 }
 
 ///finish logic by adding test 3
