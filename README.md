@@ -23,8 +23,9 @@ _This project exhibits my proficiency in JavaScript arrays and looping. When inp
 * _Navigate to the directory titled "Portfolio-project"._
 * _Open the file "index.html" in your browser._
 
-[GitHub-Pages](NEED NEW LINK)
+[GitHub-Pages](https://jessicahattig.github.io/Independent-project-week-3/)
 
+https://githuIndependent-project-week-3/
 ## Tests
 
 Tests
